@@ -1,0 +1,63 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Jennifer Rey",
+      "email": "jennifer@gmail.comr",
+      "phone": "0921-445-3244"
+    },
+    {
+      "id": 2,
+      "name": "Kz Tandingan",
+      "email": "kz@gmail.com",
+      "phone": "0994-234-5473"
+    },
+    {
+      "id": 3,
+      "name": "Joshua Garcia",
+      "email": "joshua@gmail.com",
+      "phone": "0955-343-8565"
+    },
+    {
+      "name": "Owen Mallari",
+      "email": "owen@gmail.com",
+      "phone": "0945-343-5467",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "John Dave Cruz",
+      "email": "john@gmail.com",
+      "phone": "0921-435-6574",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "Kristina Gomez",
+      "email": "kristina@gmail,com",
+      "phone": "0955-224-5456",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "Erick From",
+      "email": "erick@gmail.com",
+      "phone": "0995-432-5435",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "Ella Vargas",
+      "email": "ella@gmail.com",
+      "phone": "0956-353-5465",
+      "active": true,
+      "id": 8
+    },
+    {
+      "id": 10,
+      "name": "Luca",
+      "email": "luca@gmail.com",
+      "phone": "0921-434-5422"
+    }
+  ]
+}
